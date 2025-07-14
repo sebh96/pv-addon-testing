@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
+name: PV forecast
 url: 'https://github.com/sebh96/pv-addon-testing'
 maintainer: Awesome Maintainer <awesome@example.com>
